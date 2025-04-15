@@ -1,0 +1,5 @@
+Metric,Days between Records Requested and Received,Days between Films Requested and Received,Days between Initial Contact and IV,Days between Initial Contact and Surgery
+median,4.0,7.0,44.0,45.0
+Q1,1.0,4.0,28.0,29.0
+Q3,11.0,15.0,64.0,65.0
+IQR,10.0,11.0,36.0,36.0
